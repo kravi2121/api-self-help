@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Creator / Admin",
+    "responsibility": "Only add new members and assign roles"
+  },
+  {
+    "id": 2,
+    "name": "Persident",
+    "responsibility": "Provide final approval to the loan, adding new members, organising seminar request"
+  },
+  {
+    "id": 3,
+    "name": "Secretary",
+    "responsibility": "Raise loan, maintain accounts, and listen to members query"
+  },
+  {
+    "id": 4,
+    "name": "Internal Member"
+  },
+  {
+    "id": 5,
+    "name": "External Member"
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "createdOn": 1627322346860,
+  "id": 1,
+  "emailId": "kravi2121@gmail.com",
+  "mobileNo": "9693944534",
+  "name": "Ravi Kumar",
+  "profileImage": "",
+  "address": {
+    "pin": 825302,
+    "fullAddress": "Pundri, Hazaribagh"
+  },
+  "groups": [
+    {
+      "createdOn": 1627322346860,
+      "id": 1,
+      "memberCount": 2,
+      "backgroundImageUrl": "",
+      "name": "KB & Sons help group",
+      "profileImageUrl": "",
+      "slogan": "The ancient ruler",
+      "loans": [
+        {
+          "amount": 5000,
+          "balancedAmount": 2000,
+          "date": 1627322346860,
+          "percentage": 3,
+          "approvedBy": [
+            {
+              "dateTime": 1627322346860,
+              "userid": 2,
+              "name": "Sandhya Rana",
+              "role": {
+                "id": 2,
+                "name": "Persident"
+              }
+            },
+            {
+              "dateTime": 1627322346860,
+              "userid": 3,
+              "name": "Sweta Rana",
+              "role": {
+                "id": 3,
+                "name": "Secratary"
+              }
+            }
+          ],
+          "frequency": {
+            "id": 1,
+            "type": "Monthly"
+          },
+          "interestPaid": [
+            {
+              "amount": 150,
+              "date": 1627322346860,
+              "remarks": "for only one month",
+              "approvedBy": {
+                "userid": 2,
+                "name": "Sandhya Rana"
+              }
+            }
+          ],
+          "principalPaid": [
+            {
+              "amount": 2000,
+              "date": 1627322346860,
+              "approvedBy": {
+                "userid": 2,
+                "name": "Sandhya Rana"
+              }
+            },
+            {
+              "amount": 1000,
+              "date": 1627322346860,
+              "approvedBy": {
+                "userid": 2,
+                "name": "Sandhya Rana"
+              }
+            }
+          ],
+          "hasTakenLoan": true,
+          "isLoanCompleted": false
+        }
+      ],
+      "roles": [
+        {
+          "id": 1,
+          "name": "Creator / Admin",
+          "responsibility": "Only add new members and assign roles"
+        },
+        {
+          "id": 2,
+          "name": "Persident",
+          "responsibility": "Provide final approval to the loan, adding new members, organising seminar request"
+        },
+        {
+          "id": 4,
+          "name": "Internal Member"
+        }
+      ],
+      "hasApprovalAuthority": true
+    },
+    {
+      "addedOn": 1627322346860,
+      "id": 2,
+      "backgroundImageUrl": "",
+      "name": "KB help group",
+      "profileImageUrl": "",
+      "slogan": "The dynasty ruler",
+      "loans": [
+        {
+          "amount": 5000,
+          "balancedAmount": 2000,
+          "date": 1627322346860,
+          "percentage": 3,
+          "approvedBy": [
+            {
+              "dateTime": 1627322346860,
+              "userid": 2,
+              "name": "Sandhya Rana",
+              "role": {
+                "id": 2,
+                "name": "Persident"
+              }
+            },
+            {
+              "dateTime": 1627322346860,
+              "userid": 3,
+              "name": "Sweta Rana",
+              "role": {
+                "id": 3,
+                "name": "Secratary"
+              }
+            }
+          ],
+          "frequency": {
+            "id": 1,
+            "type": "Monthly"
+          },
+          "interestPaid": [
+            {
+              "amount": 150,
+              "date": 1627322346860,
+              "remarks": "for only one month",
+              "approvedBy": {
+                "userid": 2,
+                "name": "Sandhya Rana"
+              }
+            }
+          ],
+          "principalPaid": [
+            {
+              "amount": 2000,
+              "date": 1627322346860,
+              "approvedBy": {
+                "userid": 2,
+                "name": "Sandhya Rana"
+              }
+            },
+            {
+              "amount": 1000,
+              "date": 1627322346860,
+              "approvedBy": {
+                "userid": 2,
+                "name": "Sandhya Rana"
+              }
+            }
+          ],
+          "hasTakenLoan": true,
+          "isLoanCompleted": false
+        }
+      ],
+      "roles": [
+        {
+          "id": 1,
+          "name": "Creator / Admin",
+          "responsibility": "Only add new members and assign roles"
+        },
+        {
+          "id": 2,
+          "name": "Persident",
+          "responsibility": "Provide final approval to the loan, adding new members, organising seminar request"
+        },
+        {
+          "id": 4,
+          "name": "Internal Member"
+        }
+      ],
+      "hasApprovalAuthority": true
+    }
+  ],
+  "isActive": true,
+  "isInternalUser": true
+}

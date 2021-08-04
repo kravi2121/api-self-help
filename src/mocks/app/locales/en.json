@@ -1,0 +1,30 @@
+{
+  "language": {
+    "header": "Choose",
+    "description": "your language"
+  },
+  "authentication": {
+    "login": {
+      "header": "Login",
+      "decription": "access yor account details",
+      "terms": {
+        "generic": "By continuing, you agree to",
+        "use": "Terms of Use",
+        "and": "and",
+        "privacy": "Privacy Policy"
+      },
+      "field": {
+        "mobile-no": "Mobile No.",
+        "validation": {
+          "required": "Mobile no. is required",
+          "regex": "Mobile no. must be valid"
+        }
+      }
+    },
+    "otp": {
+      "header": "OTP Verification",
+      "description": "OTP is sent in your mobile. Please check Inbox",
+      "error": "Sorry! OTP didn't match, try again."
+    }
+  }
+}

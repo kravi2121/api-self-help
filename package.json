@@ -1,0 +1,19 @@
+{
+  "name": "api-self-help",
+  "version": "1.0.0",
+  "description": "API provider for UI of self help group",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon --watch ./src/server.js"
+  },
+  "repository": "https://github.com/kravi2121/api-self-help.git",
+  "author": "kravi2121 <kravi2121@users.noreply.github.com>",
+  "license": "Copyright@zeptoedge.com",
+  "private": true,
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}

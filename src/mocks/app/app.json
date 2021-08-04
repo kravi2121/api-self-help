@@ -1,0 +1,101 @@
+{
+  "name": "Self help group",
+  "description": "Win together - Running a self sustaining enthuastic group",
+  "googleAnalytics": "UA-116740933-1",
+  "language": {
+    "code": "en",
+    "localeCode": "en-Us",
+    "dir": "ltr",
+    "locale": "English"
+  },
+  "version": {
+    "minor": 1,
+    "major": 0,
+    "patch": 0
+  },
+  "contact": {
+    "name": "Team indeed",
+    "email": "team.indeed@zeptoedge.com"
+  },
+  "policyUrls": {
+    "termsOfUse": "http://policy/zeptoedge.com/use",
+    "termsAndConditions": "http://policy/zeptoedge.com/terms",
+    "privacy": "http://policy/zeptoedge.com/privacy",
+    "diclaimer": "http://policy/zeptoedge.com/diclaimer"
+  },
+  "license": {
+    "name": "zeptoedge",
+    "url": "http://policy/zeptoedge.com/license"
+  },
+  "groupRoles": [
+    {
+      "id": 100,
+      "role": "Member"
+    },
+    {
+      "id": 101,
+      "role": "Secratory"
+    },
+    {
+      "id": 102,
+      "role": "Persident"
+    },
+    {
+      "id": 103,
+      "role": "Tresury"
+    },
+    {
+      "id": 104,
+      "role": "Accountant"
+    }
+  ],
+  "featureSlider": {
+    "autoPlay": true,
+    "cycle": true,
+    "hideControls": true,
+    "hideDelimeters": true,
+    "slides": [
+      {
+        "imageUrl": "https://www.cloud3dprint.com/assets/images/svg/illustrations/we-have-an-idea.svg",
+        "caption": {
+          "en": "Easy to create a new group and be a part of any group"
+        }
+      },
+      {
+        "imageUrl": "https://www.cloud3dprint.com/assets/images/svg/illustrations/marketing-strategy.svg",
+        "caption": {
+          "en": "Connect with group members any time and discuss the matters"
+        }
+      },
+      {
+        "imageUrl": "https://www.cloud3dprint.com/assets/images/svg/illustrations/business-analysis.svg",
+        "caption": {
+          "en": "Helpful to rise up financially and tracking the every tiny transactions"
+        }
+      },
+      {
+        "imageUrl": "https://www.cloud3dprint.com/assets/images/svg/illustrations/data-report.svg",
+        "caption": {
+          "en": "Help to maintain community strength and grow itself"
+        }
+      }
+    ]
+  },
+  "tabs": [
+    {
+      "id": 1,
+      "Label": "Home",
+      "icon": "home"
+    },
+    {
+      "id": 2,
+      "Label": "Group",
+      "icon": "group"
+    },
+    {
+      "id": 3,
+      "Label": "Favorites",
+      "icon": "favorites"
+    }
+  ]
+}

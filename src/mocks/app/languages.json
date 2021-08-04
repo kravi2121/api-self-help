@@ -1,0 +1,12 @@
+[
+  {
+    "code": "en",
+    "name": "English",
+    "hint": "Hi!<br/> I'm Sam"
+  },
+  {
+    "code": "hi",
+    "name": "हिन्दी",
+    "hint": "नमस्ते!<br/> मैं सैम"
+  }
+]

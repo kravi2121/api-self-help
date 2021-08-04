@@ -1,0 +1,34 @@
+[
+  {
+    "createdOn": 1627322346860,
+    "id": 202107000000,
+    "emailId": "kravi2121@gmail.com",
+    "mobileNo": "9693944534",
+    "name": "Ravi Kumar",
+    "addrees": {
+      "pin": 825302,
+      "fullAddress": "Pundri, Hazaribagh"
+    },
+    "memberType": {
+      "id": 1,
+      "type": "Internal"
+    },
+    "isActive": true
+  },
+  {
+    "createdOn": 1527322346860,
+    "id": 202107000001,
+    "emailId": "kravi2121@gmail.com",
+    "mobileNo": "9693944534",
+    "name": "Sandhya Rana",
+    "addrees": {
+      "pin": 825301,
+      "fullAddress": "Pundri, Hazaribagh"
+    },
+    "memberType": {
+      "id": 1,
+      "type": "Internal"
+    },
+    "isActive": true
+  }
+]

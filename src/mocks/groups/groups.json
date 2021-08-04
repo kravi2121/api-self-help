@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "KB & Sons help group",
+    "profileImageUrl": "",
+    "backgroundImageUrl": "",
+    "slogan": "The ancient ruler",
+    "lateFineAmount": 10,
+    "users": [
+      {
+        "id": 1,
+        "role": [1, 2, 3]
+      }
+    ]
+  }
+]

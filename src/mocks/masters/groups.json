@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "backgroundImageUrl": "",
+    "name": "KB & Sons help group",
+    "profileImageUrl": "",
+    "slogan": "The ancient ruler",
+    "approvalLevel": [
+      {
+        "roleId": 2,
+        "sequence": 1
+      },
+      {
+        "roleId": 3,
+        "sequence": 2
+      }
+    ],
+    "loanPercentage": [
+      {
+        "roleId": 4,
+        "value": 3
+      },
+      {
+        "roleId": 5,
+        "value": 10
+      }
+    ],
+    "isActive": true
+  }
+]
